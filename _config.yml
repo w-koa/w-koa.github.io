@@ -21,16 +21,19 @@
 title: Willis Koa
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Cellist | Developer
+  Aspiring Developer and Cellist
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  w-koa
+paginate: 10
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
