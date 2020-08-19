@@ -2,6 +2,7 @@
 layout: post
 title: Figured out how to get Jekyll working
 date: 2020-08-10
+excerpt: Finally got Jekyll working, is the excerpt working?
 tags: development learning
 categories: development learning 
 ---
